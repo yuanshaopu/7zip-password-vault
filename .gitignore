@@ -1,0 +1,35 @@
+# build output directories
+**/o/
+**/x64/
+
+# MSVC / build artifacts
+*.obj
+*.pch
+*.res
+*.lib
+*.exp
+*.exe
+*.dll
+*.sfx
+*.pdb
+*.idb
+*.ilk
+*.map
+*.tlog
+*.lastbuildstate
+*.sbr
+*.bsc
+*.ncb
+*.suo
+*.user
+*.aps
+*.ipch
+*.sdf
+
+# IDE
+.vs/
+*.vcxproj.user
+
+# misc
+*.log
+build_log.txt
